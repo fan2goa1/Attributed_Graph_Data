@@ -3,9 +3,7 @@ This is a repository for the data of binary attributed graph.
 
 ## aminer
 
-dblp_aminer is a real dataset. It includes tens of thousands scholars and pictures their social network.
-
-The binary attribute is about gender, while 0 represents female and 1 represents male.
+dblp_aminer is a real dataset. It includes tens of thousands scholars and pictures their social network. The binary attribute is about gender, while 0 represents female and 1 represents male.
 
 ## dblp_DB/AI
 
@@ -25,11 +23,7 @@ The graph is totally the same with dblp_DB/DM. The only difference is attribute.
 
 ## NBA
 
-This is a real dataset. 
-
-This undirected graph represents the cooperative relationship between NBA players.
-
-The binary attribute is about nationalities. If a player is from America, the corresponding attribute is 0, otherwise is 1.
+This is a real dataset. This undirected graph represents the cooperative relationship between NBA players.The binary attribute is about nationalities. If a player is from America, the corresponding attribute is 0, otherwise is 1.
 
 ## IMDB
 
