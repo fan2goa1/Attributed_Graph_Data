@@ -27,4 +27,4 @@ This is a real dataset. This undirected graph represents the cooperative relatio
 
 ## IMDB
 
-This is a real dataset.
+This is a real dataset. This undirected graph represents the cooperations between various actors and actress. The attribute setting in this graph is that, if an actor/actress was born before 1990, the attribute is 1 means he/she is a new actor/actress, otherwise is 0 means veteran actor/actress.
