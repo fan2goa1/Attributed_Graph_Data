@@ -1,5 +1,6 @@
 # Attributed_Graph_Data
-This is a repository for the data of binary attributed graph.
+This is a repository for the data of binary attributed graph. The original non-attributed graphs can be downloaded from [https://github.com/
+SotirisTsioutsiouliklis/FairLaR/](https://github.com/SotirisTsioutsiouliklis/FairLaR/), [networkrepository.com/](networkrepository.com), [snap.stanford.edu](snap.stanford.edu) We construct attribute graphs by randomly assigning attributes to vertices with approximately equal probability.
 
 ## aminer
 
